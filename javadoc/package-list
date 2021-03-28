@@ -1,0 +1,7 @@
+com.faresatoui.userprofileapps.demo
+com.faresatoui.userprofileapps.demo.controller
+com.faresatoui.userprofileapps.demo.exception
+com.faresatoui.userprofileapps.demo.model
+com.faresatoui.userprofileapps.demo.repository
+com.faresatoui.userprofileapps.demo.service
+com.faresatoui.userprofileapps.demo.utils
